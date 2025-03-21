@@ -33,6 +33,7 @@ body {
   height: 100%;
   max-width: 1100px;
   margin: 0 auto;
+  scroll-behavior: smooth;
 }
 
 .header i {
