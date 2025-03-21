@@ -69,7 +69,7 @@ ul {
 }
 
 button {
-  background: none;
+  background-color: transparent;
   font: inherit;
   cursor: pointer;
   width: 110px;
@@ -82,7 +82,10 @@ button {
   letter-spacing: 0.05em;
 }
 
-button:hover {
+button:hover,
+button:focus {
+  border: 2px solid #d9a883;
+
   background-color: var(--Primary-color);
   color: #151719;
 }
