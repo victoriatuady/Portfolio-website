@@ -85,7 +85,6 @@ button {
 button:hover,
 button:focus {
   border: 2px solid #d9a883;
-
   background-color: var(--Primary-color);
   color: #151719;
 }
@@ -139,7 +138,7 @@ button:focus {
 
 i.fa-xmark {
   display: flex;
-  justify-self: right;
+  justify-self: right !important;
 }
 
 ul {
