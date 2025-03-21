@@ -1,6 +1,6 @@
 # 🚀 Portfolio Website
 
-![Portfolio Preview](./desgin/preview-website.png)
+![Portfolio Preview](./assets/images/design/preview-website.png)
 
 ## 🌟 About
 
@@ -30,8 +30,9 @@ Welcome to my personal portfolio! This website showcases my **frontend developme
 
 ## 🌍 Live Demo
 
-👉 ![View Live Portfolio](https:)
+👉 ![View Live Portfolio](https://victoriatuady.github.io/Portfolio-website/)
 
 ## 📬 Contact Me
 
 📧 Email: <yayavictoria82@gmail.com>
+💼 LinkedIn: <https://www.linkedin.com/in/victoriatuady>
