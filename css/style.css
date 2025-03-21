@@ -137,9 +137,9 @@ button:focus {
   right: 0;
 }
 
-i.fa-xmark {
+#close-btn {
   display: flex;
-  justify-self: right !important;
+  justify-self: right;
 }
 
 ul {
