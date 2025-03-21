@@ -72,8 +72,8 @@ button {
   background-color: transparent;
   font: inherit;
   cursor: pointer;
-  width: 110px;
-  height: 40px;
+  width: 100px;
+  height: 35px;
   border: 2px solid #d9a883;
   color: var(--primary-subtext);
   border-radius: 3rem;
