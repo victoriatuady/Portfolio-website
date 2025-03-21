@@ -30,9 +30,10 @@ Welcome to my personal portfolio! This website showcases my **frontend developme
 
 ## 🌍 Live Demo
 
-👉 ![View Live Portfolio](https://victoriatuady.github.io/Portfolio-website/)
+👉 [View Live Portfolio](https://victoriatuady.github.io/Portfolio-website/)
 
 ## 📬 Contact Me
 
-📧 Email: <yayavictoria82@gmail.com>
-💼 LinkedIn: <https://www.linkedin.com/in/victoriatuady>
+📧 Email: [Email Me](yayavictoria82@gmail.com)
+
+💼 LinkedIn: [LinkedIn Account](https://www.linkedin.com/in/victoriatuady)
