@@ -1,6 +1,7 @@
 const menuBtn = document.querySelector("#menu-btn");
 const closeBtn = document.querySelector("#close-btn");
 const navbar = document.querySelector(".nav-section");
+const lists = document.querySelectorAll("li a");
 
 //Open navbar
 menuBtn.addEventListener("click", () => {
@@ -17,6 +18,13 @@ document.addEventListener("click", (event) => {
   if (!navbar.contains(event.target) && !menuBtn.contains(event.target)) {
     navbar.classList.remove("active");
   }
+});
+
+// Close navbar when list is clicked
+lists.forEach((list) => {
+  list.addEventListener("click", () => {
+    navbar.classList.remove("active");
+  });
 });
 
 // Form Validation
